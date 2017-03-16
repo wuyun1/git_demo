@@ -12,6 +12,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         Random r = new Random();
-        System.out.println(r.nextBoolean());
+        System.out.println(r.nextInt());
     }
 }
